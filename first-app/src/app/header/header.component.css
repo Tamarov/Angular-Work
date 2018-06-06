@@ -1,7 +1,7 @@
 .header {
   position: relative;
   width: 100%;
-  height: 10vh;
+  height: 6vh;
   background-color: #c3c3c3;
 }
 
@@ -9,8 +9,8 @@
     position: absolute;
     width: 5vw;
     height: 6vh;
+    top: 0;
     right: 2vh;
-    margin-top: 2vh;
     background-color: red;
     border: 1px solid #c2c2c2;
   }

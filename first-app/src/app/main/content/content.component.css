@@ -1,14 +1,14 @@
 .main__content {
   position: relative;
   width: calc(100% - 50px);
-  height: 80vh;
+  height: 84vh;
   background-color: #62d9cb;
   float: right;
 }
 
 .main__content-row {
   width: calc(100% - 4vw);
-  height: 70vh;
+  height: 74vh;
   margin: auto;
   margin-top: 2vh;
 }
