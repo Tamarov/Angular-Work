@@ -15,9 +15,15 @@
     border: 1px solid #c2c2c2;
   }
 
+  .header .header__nav div{
+    font-size: 20px;
+    color: #fff;
+    margin: 10px;
+  }
+
     .header .header__nav:hover {
       width: 10vw;
-      height: 26vh;
+      height: 15vh;
       right: 2vh;
       z-index: 10;
     }
