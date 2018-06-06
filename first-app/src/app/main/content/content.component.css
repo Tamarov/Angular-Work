@@ -1,0 +1,33 @@
+.main__content {
+  position: relative;
+  width: calc(100% - 50px);
+  height: 80vh;
+  background-color: #62d9cb;
+  float: right;
+}
+
+.main__content-row {
+  width: calc(100% - 4vw);
+  height: 70vh;
+  margin: auto;
+  margin-top: 2vh;
+}
+
+.main__content .main__content-pag {
+  position: absolute;
+  width: 40%;
+  height: 5vh;
+  margin-left: calc(50% - 20%);
+  bottom: 10px;
+  background-color: darkorange;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.main__content .main__content-pag .paggination__block {
+  width: 3vh;
+  height: 3vh;
+  background-color: lightcoral;
+  margin: 1vh;
+}

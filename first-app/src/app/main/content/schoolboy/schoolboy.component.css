@@ -1,0 +1,23 @@
+.main__content-schoolboy {
+  width: calc(100% - 30px);
+  padding: 15px;
+  background-color: #82b548;
+  font-size: 30px;
+  color: #fff;
+  text-shadow: 2px 2px 2px #333;
+  margin-bottom: 9px;
+  border-radius: 3px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.8);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: start;
+}
+
+  .main__content-schoolboy div {
+    margin-right: 10px;
+  }
+
+  .main__content-schoolboy div:first-child {
+    width: 200px;
+  }
