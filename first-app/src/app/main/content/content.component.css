@@ -11,6 +11,7 @@
   height: 74vh;
   margin: auto;
   margin-top: 2vh;
+  overflow: auto;
 }
 
 .main__content .main__content-pag {
